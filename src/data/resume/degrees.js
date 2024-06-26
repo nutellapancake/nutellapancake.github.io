@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Columbia University',
+    degree: 'M.S. Financial Engineering',
+    link: 'https://www.columbia.edu/',
+    year: 2024,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of Toronto',
+    degree: 'HBSc. Statistics, Quantitative Finance',
+    link: 'https://www.utoronto.ca/',
+    year: 2023,
+  },
+  {
+    school: 'University of Toronto',
+    degree: 'BBA. Management, Finance',
+    link: 'https://www.utoronto.ca/',
+    year: 2023,
   },
 ];
 

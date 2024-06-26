@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
-  "version": "4.0.0",
-  "homepage": "https://mldangelo.com/",
-  "license": "MIT",
+  "name": "guido-personal-site",
+  "version": "1.0.0",
+  "homepage": "https://nutellapancake.github.io",
+  "license": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/nutellapancake/nutellapancake.git"
   },
   "engines": {
     "node": ">=16.x"
