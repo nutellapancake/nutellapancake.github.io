@@ -5,7 +5,7 @@
   "license": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nutellapancake/nutellapancake.git"
+    "url": "https://nutellapancake.github.io/nutellapancake.github.io/public/index.html"
   },
   "engines": {
     "node": ">=16.x"
